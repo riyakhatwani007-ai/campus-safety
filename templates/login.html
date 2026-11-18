@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Log in — CampusSafe</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="auth-wrap">
+  <div class="auth-card">
+    <a class="brand" href="{{ url_for('index') }}"><span class="dot"></span>CampusSafe</a>
+    <h1>Welcome back</h1>
+    <p class="sub">Log in to report or respond to an emergency.</p>
+    {% with msgs = get_flashed_messages(with_categories=true) %}
+      {% for cat, m in msgs %}<div class="flash {{ cat }}">{{ m }}</div>{% endfor %}
+    {% endwith %}
+    <form method="post">
+      <label for="email">Email</label><input id="email" name="email" type="email" required autofocus>
+      <label for="password">Password</label><input id="password" name="password" type="password" required>
+      <button class="btn lg" style="margin-top:22px" type="submit">Log in</button>
+    </form>
+    <p class="auth-foot">New here? <a href="{{ url_for('register') }}">Create an account</a></p>
+  </div>
+</div>
+<a class="call112" style="position:fixed;left:16px;right:16px;bottom:16px;max-width:368px;margin:0 auto" href="tel:112">In danger right now? Call 112</a>
+</body>
+</html>

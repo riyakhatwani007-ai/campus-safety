@@ -1,0 +1,54 @@
+{% extends "base.html" %}{% block title %}Emergency #{{ inc.id }}{% endblock %}
+{% block content %}
+<div class="hero {{ inc.severity }}">
+  <span class="badge sev-{{ inc.severity }}">{{ inc.severity }} severity</span>
+  <span class="badge type">{{ inc.category.replace('_',' ') }}</span>
+  <h1>{% if is_owner %}Help has been notified{% else %}Incident #{{ inc.id }} &middot; {{ inc.user_name }}{% endif %}</h1>
+  <p class="sub">“{{ inc.message }}”<br>Status: <b id="status">{{ inc.status }}</b></p>
+</div>
+
+<a class="call112" href="tel:112">Call 112 now</a>
+
+{% if sub %}
+<div class="card"><h2 style="margin-top:0">{{ sub.title }}</h2>
+  <ol class="steps">{% for s in sub.steps %}<li>{{ s }}</li>{% endfor %}</ol></div>
+{% endif %}
+
+<div class="card"><h2 style="margin-top:0">{{ guide.title }}: what to do</h2>
+  <ol class="steps">{% for s in guide.steps %}<li>{{ s }}</li>{% endfor %}</ol>
+  <p class="note">{{ disclaimer }}</p></div>
+
+<div class="card"><h2 style="margin-top:0">Call for help</h2>
+  {% for c in contacts %}
+  <div class="contact"><div><span class="label">{{ c.label }}</span><br><span class="note">{{ c.number if c.callable else '' }}</span></div>
+    {% if c.callable %}<a class="call" href="tel:{{ c.number }}">Call</a>{% else %}<span class="todo">number not set</span>{% endif %}</div>
+  {% endfor %}</div>
+
+<div class="card"><h2 style="margin-top:0">Your location</h2>
+  <div id="loc-status" class="loc">{% if loc %}Shared with security ({{ loc.lat|round(5) }}, {{ loc.lng|round(5) }}){% else %}No location shared yet{% endif %}</div>
+  {% if is_owner %}<p class="note">While this page is open, your live location keeps updating for campus security.</p>{% endif %}</div>
+
+<div class="card"><p class="note" style="margin-top:0">Not the right type of emergency? Switch the guidance:</p>
+  <div class="chips">{% for c in categories %}
+    <a class="chip {{ 'on' if c == view_cat }}" href="{{ url_for('incident', incident_id=inc.id, **{'as': c}) }}">{{ c.replace('_',' ') }}</a>{% endfor %}</div></div>
+{% endblock %}
+{% block scripts %}
+{% if is_owner and inc.status != 'resolved' %}
+<script>
+// Live location: send a new point to the server at most every 10 s while this page is open.
+(function(){
+  if(!navigator.geolocation) return;
+  var last=0, st=document.getElementById('loc-status'), stat=document.getElementById('status');
+  navigator.geolocation.watchPosition(function(p){
+    var n=Date.now(); if(n-last<10000) return; last=n;
+    fetch('/api/location/{{ inc.id }}',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({lat:p.coords.latitude,lng:p.coords.longitude,accuracy:p.coords.accuracy})})
+    .then(function(r){return r.json()}).then(function(j){
+      if(j.status){stat.textContent=j.status;}
+      st.textContent='Live location shared with security (updated '+new Date().toLocaleTimeString()+')'; st.className='loc ok';
+    }).catch(function(){});
+  },function(){},{enableHighAccuracy:true,maximumAge:5000});
+})();
+</script>
+{% endif %}
+{% endblock %}

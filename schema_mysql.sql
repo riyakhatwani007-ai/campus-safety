@@ -1,0 +1,38 @@
+-- Run once in MySQL first:  CREATE DATABASE campus_safety;
+CREATE TABLE IF NOT EXISTS users (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  email VARCHAR(120) NOT NULL UNIQUE,
+  password_hash VARCHAR(255) NOT NULL,
+  role VARCHAR(20) NOT NULL DEFAULT 'student',
+  phone VARCHAR(20),
+  created_at DATETIME NOT NULL
+) ENGINE=InnoDB;
+CREATE TABLE IF NOT EXISTS emergency_contacts (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  label VARCHAR(120) NOT NULL,
+  number VARCHAR(40) NOT NULL,
+  categories VARCHAR(120) NOT NULL DEFAULT 'all',
+  is_national TINYINT NOT NULL DEFAULT 0
+) ENGINE=InnoDB;
+CREATE TABLE IF NOT EXISTS incidents (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  user_id INT NOT NULL,
+  message TEXT NOT NULL,
+  category VARCHAR(30) NOT NULL,
+  severity VARCHAR(10) NOT NULL,
+  confidence FLOAT,
+  status VARCHAR(15) NOT NULL DEFAULT 'open',
+  created_at DATETIME NOT NULL,
+  updated_at DATETIME NOT NULL,
+  FOREIGN KEY (user_id) REFERENCES users(id)
+) ENGINE=InnoDB;
+CREATE TABLE IF NOT EXISTS incident_locations (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  incident_id INT NOT NULL,
+  lat DOUBLE NOT NULL,
+  lng DOUBLE NOT NULL,
+  accuracy FLOAT,
+  recorded_at DATETIME NOT NULL,
+  FOREIGN KEY (incident_id) REFERENCES incidents(id)
+) ENGINE=InnoDB;

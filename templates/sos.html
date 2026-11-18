@@ -1,0 +1,20 @@
+{% extends "base.html" %}{% block title %}SOS{% endblock %}
+{% block content %}
+<h1>What is happening?</h1>
+<p class="sub">Tell us in your own words (English or Hinglish). Your location goes to campus security when you press SEND.</p>
+<div class="chips" role="group" aria-label="Quick start">
+  <button type="button" class="chip" data-text="Medical emergency: ">Medical</button>
+  <button type="button" class="chip" data-text="Fire: ">Fire</button>
+  <button type="button" class="chip" data-text="Accident: ">Accident</button>
+  <button type="button" class="chip" data-text="Security threat: ">Security</button>
+  <button type="button" class="chip" data-text="Natural disaster: ">Disaster</button>
+</div>
+<label for="msg" class="note">Describe the emergency</label>
+<textarea id="msg" rows="4" maxlength="1000" placeholder="e.g. my friend fainted in the library and is not responding"></textarea>
+<div id="loc-status" class="loc">Getting your location…</div>
+<div id="err" class="flash error" hidden></div>
+<button id="send" class="sos-btn" type="button">SEND SOS</button>
+<a class="call112" href="tel:112">Call 112 now</a>
+<p class="note">This app supports, but never replaces, calling emergency services.</p>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='sos.js') }}"></script>{% endblock %}

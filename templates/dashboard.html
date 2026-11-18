@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dashboard — CampusSafe</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <a class="brand" href="{{ url_for('index') }}"><span class="dot"></span>CampusSafe</a>
+    <a class="active" href="{{ url_for('dashboard') }}">▦&nbsp; Incidents</a>
+    <a href="{{ url_for('export_csv') }}">⭳&nbsp; Export CSV</a>
+    <div class="foot">
+      Signed in as<br><strong style="color:var(--ink)">{{ user.name }}</strong><br>
+      <a href="{{ url_for('logout') }}">Sign out</a>
+    </div>
+  </aside>
+  <div class="content">
+    <div class="content-head">
+      <div><h1 style="margin-bottom:2px">Incident overview</h1>
+        <p class="sub" style="margin:0">Live feed · refreshes every 5 seconds</p></div>
+    </div>
+    <div class="stat" id="stats"></div>
+    <div class="card filters">
+      <div><label for="f-status">Status</label><select id="f-status"><option value="">All</option><option>open</option><option>responding</option><option>resolved</option></select></div>
+      <div><label for="f-sev">Severity</label><select id="f-sev"><option value="">All</option><option>high</option><option>medium</option><option>low</option></select></div>
+      <div><label for="f-q">Search</label><input id="f-q" placeholder="Name or message"></div>
+      <div><a class="btn ghost block" href="{{ url_for('export_csv') }}">Download CSV</a></div>
+    </div>
+    <div id="map" role="img" aria-label="Map of incident locations"></div>
+    <div class="tablewrap"><table>
+      <thead><tr><th>#</th><th>Time</th><th>Reporter</th><th>Message</th><th>Type</th><th>Severity</th><th>Location</th><th>Status</th></tr></thead>
+      <tbody id="rows"><tr><td colspan="8">Loading…</td></tr></tbody></table></div>
+  </div>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+</body>
+</html>

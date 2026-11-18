@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CampusSafe — AI Emergency Assistance &amp; Campus Safety</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="lp-nav">
+  <a class="brand" href="{{ url_for('index') }}"><span class="dot"></span>CampusSafe</a>
+  <span class="sp"></span>
+  <a class="navlink" href="{{ url_for('login') }}">Log in</a>
+  <a class="btn" href="{{ url_for('register') }}">Get started</a>
+</header>
+
+<section class="lp-hero">
+  <div>
+    <div class="lp-badge"><span class="dot"></span>Built for Career Point campus</div>
+    <h1>Help, triaged in seconds — not minutes.</h1>
+    <p class="lead">Describe an emergency in your own words, in English or Hinglish. CampusSafe
+      classifies it, shows first-aid steps instantly, and shares your live location with campus
+      security — all before help even picks up the phone.</p>
+    <div class="lp-cta">
+      <a class="btn lg" style="width:auto" href="{{ url_for('register') }}">Create an account</a>
+      <a class="btn ghost lg" style="width:auto" href="{{ url_for('login') }}">I already have one</a>
+    </div>
+    <p class="note" style="margin-top:14px">This app supports, but never replaces, calling 112.</p>
+  </div>
+  <div class="lp-panel" aria-hidden="true">
+    <div class="note" style="margin-bottom:10px;font-weight:700">SOS · Preview</div>
+    <div class="mock-msg">“my friend fainted in the library and is not responding”</div>
+    <div class="mock-btn">SEND SOS</div>
+    <div class="mock-steps">
+      <div><span class="badge sev-high" style="flex:none">High</span> Medical emergency detected</div>
+      <div>📍 Location shared with campus security</div>
+      <div>📞 Ambulance &amp; medical room contacts ready</div>
+    </div>
+  </div>
+</section>
+
+<section class="lp-section">
+  <h2 style="font-size:1.4rem">What it does</h2>
+  <div class="lp-grid">
+    <div class="lp-feature"><div class="icon">AI</div><h3>Smart triage</h3>
+      <p>A text model reads your message and classifies the emergency type and severity in real time, backed by safety keyword rules.</p></div>
+    <div class="lp-feature"><div class="icon">+</div><h3>First-aid guidance</h3>
+      <p>Step-by-step instructions for medical, fire, accident, security and natural-disaster situations, sourced from Red Cross and NDMA guidance.</p></div>
+    <div class="lp-feature"><div class="icon">⌖</div><h3>Live location</h3>
+      <p>Your location is shared with campus security the moment you send an SOS, and keeps updating while the page stays open.</p></div>
+    <div class="lp-feature"><div class="icon">☎</div><h3>One-tap contacts</h3>
+      <p>Campus security, medical room, warden and national helplines, shown automatically for the detected emergency type.</p></div>
+    <div class="lp-feature"><div class="icon">▦</div><h3>Security dashboard</h3>
+      <p>Live incident feed with map, severity sorting, status tracking and exportable reports for the response team.</p></div>
+    <div class="lp-feature"><div class="icon">⚿</div><h3>Private by design</h3>
+      <p>Only you and campus security can see a report. Other students never see your incident or location.</p></div>
+  </div>
+</section>
+
+<section class="lp-section">
+  <h2 style="font-size:1.4rem">How it works</h2>
+  <div class="lp-steps">
+    <div><h3>Describe it</h3><p class="note">Type what's happening, in your own words.</p></div>
+    <div><h3>Get guidance instantly</h3><p class="note">See the right first-aid steps and emergency contacts.</p></div>
+    <div><h3>Security responds</h3><p class="note">Your location and report reach the dashboard in real time.</p></div>
+  </div>
+</section>
+
+<footer class="lp-foot">CampusSafe — a student project for campus emergency response. Always call 112 in immediate danger.</footer>
+</body>
+</html>

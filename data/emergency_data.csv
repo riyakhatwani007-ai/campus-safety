@@ -1,0 +1,881 @@
+text,category,severity,base_id
+help! drunk men are making trouble outside the campus at the main gate,security,medium,99
+tez baarish me hostel ki chhat tapak rahi hai near the hostel,natural_disaster,low,125
+help! bijli ke board me spark hua aur aag lag gayi in the lab,fire,high,35
+"madam extreme heatw ave, many students feeling dizzy in the lab",natural_disaster,medium,123
+minor scratch after falling from my cycle,accident,low,68
+i can see black smoke coming frm the chemistry lab please come fast,fire,medium,45
+emergency - an unknown person is asking for my room number,security,medium,97
+sir someone is threateinng me on call in the library,security,medium,90
+help! haistorm broke windows in the lab,natural_disaster,medium,115
+"help! i think i broke my arm, i tlooks bent",medical,high,28
+help! a big branch fell on the road afterthe storm and blocked it near the hostel,natural_disaster,medium,120
+someone is having chest pain and sweatinga lot at the main gate,medical,high,3
+"si rlab accident, chemical spilled on his hand jaldi aao",accident,high,61
+"urgent: heavy flooding on campus, water entering ground floor please come fast",natural_disaster,high,108
+"please help, my phone got snatched near the bus stop at the main gate",security,medium,89
+emeregncy - someone is sending me threatening messages online right now,security,medium,101
+"please help, i have a bad ehadache and feel dizzy jaldi aao",medical,low,11
+urgent: mujhe bukhar hai aursar dard ho raha hai,medical,low,12
+"please help, a man with a weapon is on campus please come fast",security,high,80
+madam transformer blast near the gate with sparks and flames jaldi aao,fire,high,46
+"sir diabetic student feels shaky and sweaty, needs sugar please come fast",medical,medium,24
+urgent: there is a fire in the hostel kitchen near the hostel,fire,high,30
+an unknown person is asking for my room number right now,security,medium,97
+emergency - mujhe ghabrahat ho rahi hai aur pasina aa raha hai in the library,medical,medium,29
+ceiling cracks after the earthquake at the main gate,natural_disaster,high,111
+bhai flames spreading on the second floor at the main gate,fire,high,31
+madam student fell from the first floor balcony,accident,high,58
+"madam bhukamp aa raha hai, uilding hil rahi hai",natural_disaster,high,107
+"emergency - tooth pain since last night, cant study at the main gate",medical,low,25
+"sir gate ke paas accident ho gaya, bahut khoon aa raha hai",accident,high,59
+urgent: a cyclist was nocked down by a speeding car near the library right now,accident,high,69
+"help! mujhe koi pareshan kar raha hai, mujhe darr lag raha hai near the hostel",security,high,84
+help! roof leaking and water logging in the corridor due to rain please come fast,natural_disaster,low,117
+emergency - i slipped in the corridor and hurt my knee,accident,low,66
+i have a bad headache and feel dizzy,medical,low,11
+sir  ceiling tile fell on a student's head jaldi aao,accident,medium,72
+emergency - charger blast in my room and the mattress is burning in the lab,fire,high,50
+urgent: an unknown eprson is asking for my room number in the library,security,medium,97
+bhai the ground is shaking and everyoneis running outside near the hostel,natural_disaster,high,118
+madam thick fog and zero visibility on the campus road near the hostel,natural_disaster,low,124
+help! road par truck ne ek student ko takkar maar di,accident,high,78
+"emergency - food poisoning, vomiting since morning aldi aao",medical,medium,14
+sir my laptop was stolen from the library in the lab,security,low,92
+"urgent: bhukamp aa raha hai, building hil rahi hai in the library",natural_disaster,high,107
+madam there is a fire in the hostel kitchen near the hostel,fire,high,30
+bhai a stranger is harassing girls near the gate,security,high,82
+bhai small fire in the dustbin near canteen,fire,low,41
+bhai tez baarish me hostel ki chhat tapak rahi hai,natural_disaster,low,125
+madam drunk men are making trouble outside the campus,security,medium,99
+"urgent: seedhiyo nse phisal gayi, ghutne me dard hai in the lab",accident,low,76
+"bhai mujhe koi pareshan kar raha ha,i mujhe darr lag raha hai",security,high,84
+emergency - burning smell from the ac in my room jaldi aao,fire,low,42
+emergency - ragging happening in the hostel room please come fast,security,high,83
+help! someone is having chest pain and sweating a lot in the lab,medical,high,3
+help! a stranger is harassing girl snear the gate please come fast,security,high,82
+"please help, someone is threatening e on call please come fast",security,medium,90
+emergncy - bike chori ho gayi parking se in the library,security,low,93
+madam smell of gas and smoke on the third floor please come fast,fire,high,54
+urgent: small fire in the dustbin near canteen at the main gate,fire,low,41
+"please help, i am having an asthma attack and have no inhaler in the library",medical,high,7
+bhai auto rickshaw overturned outside the university gate near the hostel,accident,high,71
+earthquake tremors felt in the building in the lab,natural_disaster,high,106
+sir tez baarish me hostel ki chhat tapak rahi hai jaldi aao,natural_disaster,low,125
+"urgent: two students collided while running, one is rcying in pain in the lab",accident,low,70
+my friend is not waking up,medical,high,22
+"madam seedhiyon se phisal gayi, ghutn me dard hai in the library",accident,low,76
+hostel ke bahar ladai ho rahi hai near the hostel,security,medium,88
+olavristi se gaadi ke sheeshe toot gaye jaldi aao,natural_disaster,medium,128
+sir my bag was taken fro the classroom right now,security,low,100
+emergency - two cars collided in the campus parking in the lab,accident,medium,63
+ugrent: charger blast in my room and the mattress is burning in the library,fire,high,50
+"please help, a boy burnt his hand with hot oil in the mess",accident,medium,74
+help! someone is following me near the hostel at night at the main gate,security,high,81
+"sir heavy thunderstorm, students stuck in the lab",natural_disaster,medium,121
+"please help, i have a bad heaache and feel dizzy jaldi aao",medical,low,11
+madam kitchen me tel mea ag lag gayi right now,fire,high,52
+"please help, a girl in my class is vomiting and looks very weak at the main gate",medical,medium,18
+"help! extreme heat wave, many students feeling dizzy",natural_disaster,medium,123
+"sir bike accident nera the main gate, rider is injured in the library",accident,high,55
+"please help, short circuit sparks in the classroom socket in the lab",fire,medium,37
+emergency - people trapped in the buildin with smoke everywhere,fire,high,33
+pet me bahut dard ho raha ha aur ulti ho rahi hai in the library,medical,medium,17
+saans lene me dikkat ho rahi hai,medical,high,10
+smell of gas and smoke on the third floor right now,fire,high,54
+urgent: thee is a fire in the hostel kitchen please come fast,fire,high,30
+"please help, bijli ke board me spark hua aur aag lag agyi at the main gate",fire,high,35
+water has entered the library after continuous rain,natural_disaster,medium,119
+emergency - someone is recording girls in the washroom with a phone in he lab,security,high,95
+bhai nadi ka pani campus ki taraf badh raha hai,natural_disaster,high,127
+urgent: a bike is burning in the parking int he library,fire,medium,39
+madam a girl in my class is vomiing and looks very weak in the lab,medical,medium,18
+"period cramps are unbearable, need a doctor",medical,low,23
+sir two unknown me entered the girls hostel and refuse to leave right now,security,high,94
+sir fire alarm is ringing and i smell burning in the library,fire,medium,38
+sir i am beingstalked and need help immediately in the lab,security,high,85
+"sir i cut my finger while cooking, bleeding a little please come fast",medical,low,16
+bhai electric shock from the switchboard in lab near the hostel,accident,high,60
+"help! bhukamp aa raha hai, building hil rahi hai jaldi aao",natural_disaster,high,107
+"two students collided whiler unning, one is crying in pain",accident,low,70
+urgent: there is a fight between students in the ground,security,medium,86
+help! short circuit sparks in the classroom socket near the hostel,fire,medium,37
+urgent: my roommate has high fever and is shivering right now,medical,medium,19
+madam burning smell from the ac in my room at the main gate,fire,low,42
+charger blast n my room and the mattress is burning,fire,high,50
+bhai haevy bleeding from his head,medical,high,5
+sir i got rashes all over my body after taking a tablet please come fast,medical,medium,21
+emergency - bike chori ho gayi parking se,security,low,93
+bhai minor scratch after falling from my cycle please come fast,accident,low,68
+"urgent: extreme heat wave, many students feeling dizzy in the library",natural_disaster,medium,123
+bhai minor scratch after falling from my cycle right now,accident,low,68
+sir the cctv camera near the gate is brken please come fast,security,low,98
+help! someone is having chest pain and sweating a lot right now,medical,high,3
+sir the cctv camera near the gate is broken jaldi aao,security,low,98
+bhai she collased in the corridor at the main gate,medical,high,4
+sir my friend fainted and is not responding near the hostel,medical,high,1
+sir he hit his head andn ow he is confused in the lab,medical,high,20
+emergency - burning smell from the ca in my room,fire,low,42
+urgent: bus accident near the college gate in the lab,accident,high,57
+emergency - small fire in the dustbin near canteen,fire,low,41
+emergency - labse dhuan nikal raha hai,fire,medium,40
+madam a student is having a seizure right now,medical,high,6
+urgent: a man with a weapon is on campus jaldi ao,security,high,80
+bhai a fan fell and injured a student in the classroom jaldi aao,accident,medium,65
+"sir heavy flooding on campus, waterentering ground floor in the lab",natural_disaster,high,108
+"bhai bike accident near the main gate, rider is injured jaldi aao",accident,high,55
+emergency - meri cycle chori ho gayi ni the lab,security,low,105
+flames spreading on the second floor in the library,fire,high,31
+sir my aptop was stolen from the library please come fast,security,low,92
+emergency - mujhe ghabrahat ho rahi hi aur pasina aa raha hai in the library,medical,medium,29
+madam i slipped in te corridor and hurt my knee right now,accident,low,66
+"please help, hailstorm broke windows in the lab please come fast",natural_disaster,medium,115
+"strong storm, tree fell near the hostel at the main gate",natural_disaster,medium,112
+a girl in my class is vomiting and looks very weak,medical,medium,18
+earthqauke tremors felt in the building in the lab,natural_disaster,high,106
+urgent: fire alarm is ringing and i smell burning near the hostel,fire,medium,38
+urgent: lab se dhuan nikal rahahai please come fast,fire,medium,40
+"please help, ek ladka mujhe roz peecha kart hai in the lab",security,high,103
+"please help, meri cycle chori ho gayi at the main gate",security,low,105
+bhai nadi ka pani campus ki taraf badh raha hai near the hostel,natural_disaster,high,127
+someone got hit by a vehicle on the road in the library,accident,high,56
+madam a cyclist was knocked down by a speeding car near the library in the library,accident,high,69
+generator se dhuan aur chingari nikal rahi hai in the library,fire,medium,53
+ek ladka mujhe roz peecha karta hai,security,high,103
+sir smal lfire in the dustbin near canteen,fire,low,41
+my friend fainted and is not responding,medical,high,1
+hostel me aag lag gayi hai near the hostel,fire,high,32
+"bhai zameen hil rahi hai, sab bahar bhago",natural_disaster,high,126
+"help! canteen me jhagda ho gaya, chaaku nikala at the main gate",security,high,104
+"please help, bus accident near the college gate in the lab",accident,high,57
+madam there is a fight between students in the ground near the hostel,security,medium,86
+"please help, olavrishti se gaadi ke sheeshe toot gaye jaldi aao",natural_disaster,medium,128
+i am being stalked and need help immediately in the lab,security,high,85
+help! flames spreading on the second floor in the lab,fire,high,31
+heavy bleeding from his head,medical,high,5
+emergency - lab me test tube toot gaya aur haath kat gaya near the hotsel,accident,medium,77
+emergency - bijli ke board me spark hua aur aag lag gayi jaldi aao,fire,high,35
+emergency - electric shock from te switchboard in lab right now,accident,high,60
+bhai she collapsed in the corridor near the hostel,medical,high,4
+help! electric shock from the switchboard in lab in the library,accident,high,60
+sir my friend is not waking up in the library,medical,high,22
+"sir pole se takra gaya bike, sar me chot hai near the hostel",accident,high,75
+pet me bahut dard ho raha hai aur ulti ho rahi hai near the hostel,medical,medium,17
+"please help, a mna with a weapon is on campus",security,high,80
+urgent: a wire is burning in the ocrridor jaldi aao,fire,medium,48
+sir hailstorm broke windows n the lab,natural_disaster,medium,115
+bhai someone gto hit by a vehicle on the road in the library,accident,high,56
+"help! dost ko seene me dard ho raha hai, dil ka daura lag rahah ai near the hostel",medical,high,27
+help! a boy burnt his hand with hot oil in the mess right now,accident,medium,74
+urgent: cyclone warning and strong winds shaking windows,natural_disaster,medium,113
+"please help, gas cylinder leak smell in the mess in the lab",fire,high,34
+sir raat ko koi mere room a darwaza khatkhata raha hai in the lab,security,high,102
+i have a bad headache and feel dizzy in the lab,medical,low,11
+cyclone warning and strong winds shaking windows right now,natural_disaster,medium,113
+help! auto rickshaw overturned outside the university gate jaldi aao,accident,high,71
+madam someone is sending me threatening messages online right now,security,medium,101
+emergency - my roommate has high fever and is shivering right now,medical,medium,19
+madam smell of gas and smoke on the third floor,fire,high,54
+help! i am having an asthma attack and have no inhaler in the library,medical,high,7
+madam my phone got snatched near the bus stop jaldi aao,security,medium,89
+emergency - generator se dhuan aur chingari nikal rahi hai jaldi aao,fire,medium,53
+"madam pole se takra gaya bike, sar me chot hai near the hostel",accident,high,75
+short circuit sparksin the classroom socket in the lab,fire,medium,37
+cyclone warning and strong winds shaking windows jaldi aao,natural_disaster,medium,113
+sir an unknown person is asking for my room number in the library,security,medium,97
+urgent: he is not breathing please help,medical,high,2
+emergnecy - smoke coming out of the lab room right now,fire,medium,36
+help! i got rashes all over my body after taking a ablet right now,medical,medium,21
+emergency - room ke plug se jalne ki smell aa rahi hai,fire,low,43
+water has entered the library after continuuos rain jaldi aao,natural_disaster,medium,119
+"bhai lab accident, chemical spilledo n his hand please come fast",accident,high,61
+"please help, two students collided whie running, one is crying in pain please come fast",accident,low,70
+"please help, two students collided while running, one is crying in pain jaldi aao",accident,low,70
+sir i feel feverish and have a stomach ache please come fast,medical,low,13
+"sir mujhe koi pareshan kar raha hai, mujhe darr lag raha hai at the mani gate",security,high,84
+madam hailstorm broke windows in the lab right now,natural_disaster,medium,115
+sirsomeone left the stove on and the pan is smoking in the library,fire,low,51
+sir auto rickshaw overturned outside the university gate near the hostel,accident,high,71
+urgent: someone is following me near the hostel at night jaldi aao,security,high,81
+bhai thick fog and zero visibility on the campus road in the lab,natural_disaster,low,124
+"urgent: diabetic student feels shaky and sweaty, needs sugar",medical,medium,24
+"madam dost ko seene me dard ho raha hai, dil ka daura lag raha hai jaldi aao",medical,high,27
+"please help, an unknown person is asking for my room number right now",security,medium,97
+urgent: someone fell in the bathroom and is lying on the floor jaldi aao,accident,medium,73
+"please help, he hit his head and now he is confused",medical,high,20
+help! smell of gas and smoke n the third floor,fire,high,54
+earthquake tremors felt in the building in the library,natural_disaster,high,106
+bhai someone is threatening me on clal please come fast,security,medium,90
+help! tow cars collided in the campus parking right now,accident,medium,63
+"please help, a ceiling tile fell on a student's head jaldi aao",accident,medium,72
+"zameen hil rahi hai, sab bahar bhaago jaldi aao",natural_disaster,high,126
+urgent: thick fog and zero visibility on the campus road,natural_disaster,low,124
+"gate ke paas accident ho gaya, bahut khoon aa raha hai jaldi aao",accident,high,59
+help! tez aandhi se ped gir gaya in the lab,natural_disaster,medium,114
+urgent: someone is following me near the hostel at night,security,high,81
+"emergency - dost ko seene me drad ho raha hai, dil ka daura lag raha hai in the library",medical,high,27
+bhai roof leaking and water logging in the corridor due to rain,natural_disaster,low,117
+madam meri cycle chori ho gayi in the lab,security,low,105
+help! suspicious person roaming around the girls hostel in the lab,security,medium,87
+sir someone is recording girls in the washroom with a phone please come fast,security,high,95
+urgent: someone is having chest pain and sweating a lot,medical,high,3
+"sir bike accident near the main gate, rider is injured at the main gate",accident,high,55
+help! bijli ke board me spark hua aur aag lag gayi right now,fire,high,35
+charger blast in my room and the mattress is burning near the hostel,fire,high,50
+there is a fight between students in the ground jaldi aao,security,medium,86
+madam my roommate has high fever and is shivering jaldi aao,medical,medium,19
+an unknown person is asking for my room number in the library,security,medium,97
+madam i can see black smoke coming from the chemistry lab in the library,fire,medium,45
+"hlp! i think i broke my arm, it looks bent in the lab",medical,high,28
+madam dry grass behind the hostel caught fie right now,fire,medium,49
+help! people trapped in the building with smoke everywhere in the lab,fire,high,33
+madam suspicious person roaming around the girls hostel at the main gate,security,medium,87
+urgent: people trapped in the building with smoke everywhere in the lab,fire,high,33
+help! a student fell from the stairs and cannot stand in the lab,accident,medium,62
+sir someone is recording girls in the washroom with a phone,security,high,95
+"emergency - pole se takra gaya bike, sar me chot hai",accident,high,75
+emergency - there is a fire in the hostel kitchen,fire,high,30
+emergency - road par truck ne ek student ko takkar maar di in the lab,accident,high,78
+minor scratch after falling from my yccle in the library,accident,low,68
+"please help, the canteen stove caught fire and it is spreading please come fast",fire,high,44
+bhai pet me bahut dard ho raha hai aur ulti ho rahi hai in the lab,medical,medium,17
+"sir meri tabiyat kharab hai, ulti aur chakkar aa rahe hain in the lab",medical,medium,26
+"please help, my friend isn ot waking up in the lab",medical,high,22
+a bike is burning in the parking,fire,medium,39
+sir earthquake tremors felt in the building,natural_disaster,high,106
+help! lightning struck near the playground,natural_disaster,high,110
+help! minor scratch after falling from my cycle at the main gate,accident,low,68
+sir lab me test tube toot gaya aur haath kat gaya at the main gate,accident,medium,77
+raat ko koi mere room ka darwaza khatkhata raha hai,security,high,102
+a student is having a seizure in the lab,medical,high,6
+"please help, bike chori ho gayi parking se near the hostel",security,low,93
+"please help, the cctv camera near the gate is broken jaldi aao",security,low,98
+help! someone is having chest pain and sweating a lot jaldi aao,medical,high,3
+help! lab me test tube toot gaya aur haath kat gaya in the libary,accident,medium,77
+"bhai dost ko seene me dard ho raha hai, dil ka daura lag raha hai at the main gate",medical,high,27
+"baarish se road par paani bhar gaya, jaana mushkil hai near the hostel",natural_disaster,low,116
+bike chori hog ayi parking se,security,low,93
+urgent: playground me khelte hue ladke ka par toot gaya please come fast,accident,medium,79
+urgent: charger blast in my room and the mattress is burning in the lab,fire,high,50
+help! two unknown men entered the girls hostel and refuse to leave at the main gate,security,high,94
+roof leaking and water logging in the corridor ude to rain near the hostel,natural_disaster,low,117
+urgent: i got rashes all over my body after taking a tablet at the main gate,medical,medium,21
+"please help, room ke plug se jalne ki smell aa rahi hai in the lab",fire,low,43
+"madam baarish se road apr paani bhar gaya, jaana mushkil hai jaldi aao",natural_disaster,low,116
+koi bina permission ke hostel me ghus gaya,security,medium,91
+two unknown men entered the girls hostel and refuse to leave right now,security,high,94
+tez aandhi se ped gir gaya,natural_disaster,medium,114
+madam someone is following me near the hostel at night in the lab,security,high,81
+raat ko koi mere room ka darwaza khatkhata raha hai please come fast,security,high,102
+madam i am having an asthma attack and have no inhaler near the hostel,medical,high,7
+bhai someone is recording girls in the washroom with a phone at the main gate,security,high,95
+people trapped in the building with smoke everywhere in the lab,fire,high,33
+"sir scooty se gir gaya, haath me chot lagi hai please come fast",accident,medium,64
+madam river leel rising near the campus after dam water release near the hostel,natural_disaster,high,122
+"please help, lightning struck near the playground right now",natural_disaster,high,110
+urgent: dry grass beind the hostel caught fire,fire,medium,49
+help! kitchen me etl me aag lag gayi near the hostel,fire,high,52
+help! there is a fight between students in the ground at the main gate,security,medium,86
+i am having an asthma attack and have no inhaler,medical,high,7
+kitchen me tel me aag lag gayi near the hostel,fire,high,52
+emergency - hostel me aag lag gayi hai in the lab,fire,high,32
+mera pair mud gaya football khelte hue near the hostel,accident,low,67
+"please help, dost ko senee me dard ho raha hai, dil ka daura lag raha hai in the library",medical,high,27
+help! student fell from the firt floor balcony in the library,accident,high,58
+bhai dry gass behind the hostel caught fire,fire,medium,49
+sir ek ladka mujhe roz peecha arta hai,security,high,103
+help! someone fell in the bathroom and isl ying on the floor right now,accident,medium,73
+sir she cllapsed in the corridor jaldi aao,medical,high,4
+sir bike chori ho gayi parking se jaldi aao,security,low,93
+"mujhe koi pareshan kar raha hai, mujhe darr lag raha hai in the library",security,high,84
+"sir mujhe koi pareshan kar raha hai, mujhe darr lag raha hai jaldi aao",security,high,84
+sir tez aandhi se ped gir gaya riht now,natural_disaster,medium,114
+"please help, hailstorm brokew indows in the lab",natural_disaster,medium,115
+"bhai seedhiyon se phisal gayi, ghutne me dard hai right now",accident,low,76
+dry rass behind the hostel caught fire,fire,medium,49
+emergency - drunk men are making trouble outside the campus near the hostel,security,medium,99
+generator se dhuan aur chingari nikal rahi hai,fire,medium,53
+emergnecy - i am having an asthma attack and have no inhaler,medical,high,7
+"please help, extreme heat wave, many students feeling dizzy in the library",natural_disaster,medium,123
+help! short circuit sparks in the classroom socke please come fast,fire,medium,37
+"please help, room ke plug se jalne ki smell aa rahi hai",fire,low,43
+sir mere dost ko chakkar aa rahahai aur vo behosh ho gaya please come fast,medical,high,9
+"sir scooty se gir gaya, haath me chot lagi hai in the library",accident,medium,64
+urgent: my friend fainted and is not responding,medical,high,1
+"please help, m friend fainted and is not responding near the hostel",medical,high,1
+"please help, a girl in my class is vomiting and looks very weak please come fast",medical,medium,18
+urgent: a boy burnt his hand with hot oil in the mess in the lab,accident,medium,74
+"please help, playground me khelte hue ladke ka apir toot gaya",accident,medium,79
+"i cut my finger while cooking, bleeding a little in the library",medical,low,16
+emergecny - fire extinguisher needed urgently in block c,fire,high,47
+someone is following me near the hostel at night,security,high,81
+help! i am being stalked and need help immediately in thelibrary,security,high,85
+madam mujhe bukhar hai aur sar dard ho raha hai at the main gate,medical,low,12
+urgent: someone is sending me threatening messages online at the main gate,security,medium,101
+help! a cyclist was knocked down by a speeding car near the library please come fast,accident,high,69
+"sir pole se takra gaya bike, sar me chot hai please come fast",accident,high,75
+madam my bag wastaken from the classroom,security,low,100
+help! a man with a weapon is on campus please come fast,security,high,80
+he hit his head and now he is confused near the hostel,medical,high,20
+"please help, a studet fell from the stairs and cannot stand",accident,medium,62
+emergency -t ransformer blast near the gate with sparks and flames in the lab,fire,high,46
+bhai my ankle is swollen after a fall and it hurts at the main gate,medical,medium,15
+help! fire alarm is ringing and i smell burning near the hostel,fire,medium,38
+"urgent: heavy thundertsorm, students stuck in the lab",natural_disaster,medium,121
+help! playground me khelte hue ladke ka pair toot gaya right now,accident,medium,79
+help! i got rashes all over my bod yafter taking a tablet in the lab,medical,medium,21
+"please help, river level rising near the campus after dam water release in the lab",natural_disaster,high,122
+fire extinguisher needed urgently in block c right now,fire,high,47
+emergency - a bike is burning in the aprking,fire,medium,39
+"sir allergic reaction, face is swelling in the lab",medical,high,8
+madam hostel me aag lag gayi hai,fire,high,32
+help! raat ko koi mere room ka darwaza khatkhata raha hai at the main gate,security,high,102
+seniors are forcing reshers to do things against their will in the library,security,high,96
+"please help, my laptop was stolen from the library near the hostel",security,low,92
+urgent: my laptop was stolen from the library right now,security,low,92
+"sir scooty se gir gaya, haath me chot lagi hai jaldi aao",accident,medium,64
+"please help, someone is threatening me on call in the lab",security,medium,90
+help! nadi ka pani campus ki taraf badh raha hai,natural_disaster,high,127
+ceiling cracks aftert he earthquake,natural_disaster,high,111
+my friend fainted and is not responding riht now,medical,high,1
+madam a wire is burning in the corridor,fire,medium,48
+"i cut my finger while cooking, bleeding a little jaldi aao",medical,low,16
+"please help, mujhe bukhar hai aur sar dard ho raha hai in the library",medical,low,12
+sir smoke coming uot of the lab room please come fast,fire,medium,36
+"please help, mei cycle chori ho gayi in the library",security,low,105
+bhai my phone got snatched near the bus stop jaldi aao,security,medium,89
+"please help, a stranger is harassing girls near the gate near the hostel",security,high,82
+"please help, my laptop was stolen from the library in the library",security,low,92
+i am being stalked and need help immediately,security,high,85
+urgent: hostel me aag lag gayi hai at the main gate,fire,high,32
+madam someone is threatening me on call,security,medium,90
+emergency - nadi ka pani campus ki traf badh raha hai jaldi aao,natural_disaster,high,127
+emergency - he is not bretahing please help right now,medical,high,2
+emergency - dry gras behind the hostel caught fire jaldi aao,fire,medium,49
+sir the ground is shaking and everyone is running outside,natural_disaster,high,118
+"please help, charger blast in my room and the mattress i sburning right now",fire,high,50
+help! flood water rising in the hostel basement in the lab,natural_disaster,high,109
+water has entered the library after continuous rain please come fast,natural_disaster,medium,119
+madam she collapsed in the corridor rihgt now,medical,high,4
+fire extinguisher needed urgently in block c jaldi aao,fire,high,47
+madam a student fell from the stairs and cannot sand in the lab,accident,medium,62
+urgent: my roommate has high fever and isshivering near the hostel,medical,medium,19
+bhai playground me khelte hue ladke ka pair toot gaya in the library,accident,medium,79
+sir a man with a weapon is on campus at the main gate,security,high,80
+bhai lightning struck near the playground i the library,natural_disaster,high,110
+"please help, ek ladka mujhe roz peecha karta hai in the library",security,high,103
+"please help, smell of gas and smoke on the third floor jaldi aao",fire,high,54
+"emergency - pole se takra gaya bike, sar me chot hai right now",accident,high,75
+help! ceiling cracks after the earthqauke please come fast,natural_disaster,high,111
+"please help,a  fan fell and injured a student in the classroom",accident,medium,65
+bhai suspicious person roaming around the girls hostel,security,medium,87
+help! someone fell in the bathroom and is lying on the floor near the hostel,accident,medium,73
+urgent: he is not breathing please help jaldi aao,medical,high,2
+lightning struck near the playgorund,natural_disaster,high,110
+river level rising near the campus after dam water release jladi aao,natural_disaster,high,122
+a fan fell and injured a student in the classroom please come fast,accident,medium,65
+"please help, pole se takra gaya bike, sar me chot hai",accident,high,75
+"please help, pet me bahut adrd ho raha hai aur ulti ho rahi hai in the library",medical,medium,17
+madam playground me khelte hue ladke ka pair toot gaya right now,accident,medium,79
+urget: road par truck ne ek student ko takkar maar di jaldi aao,accident,high,78
+help! i feel feverish an have a stomach ache right now,medical,low,13
+"sir fod poisoning, vomiting since morning jaldi aao",medical,medium,14
+"madam dost ko seene me dard ho raha hai, dil ka daura lag raha hai in the library",medical,high,27
+"emergency - scooy se gir gaya, haath me chot lagi hai",accident,medium,64
+roof leaking and water logging in the corridor due to rain,natural_disaster,low,117
+"urgent: canteen me jhagda ho gaya, chaaku nikala",security,high,104
+"please help, lab me test tube toot gaya aur haath kat gaya near the ohstel",accident,medium,77
+urgent: two cars collided in the campus parking in the library,accident,medium,63
+"urgent: meri tabiyat kharba hai, ulti aur chakkar aa rahe hain right now",medical,medium,26
+lab se dhuan nikal raha hai jaldi aao,fire,medium,40
+a man with a weapon is on campus at the main gate,security,high,80
+help! a bike is burning in the parking,fire,medium,39
+"bike acident near the main gate, rider is injured jaldi aao",accident,high,55
+bhai someone is recording girls in the washroom with a phone,security,high,95
+my frend is not waking up jaldi aao,medical,high,22
+"sir extreme heat wave, many students feeling dizzy at the main gate",natural_disaster,medium,123
+sir she clolapsed in the corridor in the lab,medical,high,4
+emergency - someone is threatening me on call in the lab,security,medium,90
+help! i feel feveris hand have a stomach ache at the main gate,medical,low,13
+"sir period cramps are unbearable, need a doctor at the main gate",medical,low,23
+roof leaking and water logging in the corridor due to rain right now,natural_disaster,low,117
+help! fire alarm is ringing and i smell burning,fire,medium,38
+sir two cars collided in the campus parking in the lab,accident,medium,63
+"please help, allergic reactino, face is swelling",medical,high,8
+ragging happening in the hostel room,security,high,83
+"diabetic student feels shaky and sweaty, needs sugar jaldi aao",medical,medium,24
+help! river level rising near the campus after dam watr release,natural_disaster,high,122
+help! kitchen me tel me aag lag agyi,fire,high,52
+madam smoeone is sending me threatening messages online in the lab,security,medium,101
+emergency - my rommate has high fever and is shivering in the lab,medical,medium,19
+"sir bike accident near the main gate, rider is injured please come fast",accident,high,55
+urgent: fire extinguisher needed urgently in block c jaldi aao,fire,high,47
+help! someone is sending me theatening messages online jaldi aao,security,medium,101
+"sir extreme heat wave, many tudents feeling dizzy at the main gate",natural_disaster,medium,123
+help! ceiling cracks after the earthquake in the lab,natural_disaster,high,111
+urgent: my ankle is swollen after a fall and it hurts jaldi aao,medical,medium,15
+"sir strong storm, tree fell near the hostel jaldi aao",natural_disaster,medium,112
+help! nadi ka pani campus ki taraf badh raha ahi at the main gate,natural_disaster,high,127
+"sir extreme heat wave, many students feeling dizzy near the hostel",natural_disaster,medium,123
+"please help, zameen hil rahi hai, sab bahar bhaago",natural_disaster,high,126
+madam cyclone warning and strong winds shaking windows near the hostel,natural_disaster,medium,113
+"help! bike accident near the main gate, rier is injured jaldi aao",accident,high,55
+a cyclist was knocked down by a speeding cr near the library,accident,high,69
+urgent: lab se dhuan nikal raha hai jaldi aao,fire,medium,40
+madam someone is having chest pain and sweating a lot near the hostel,medical,high,3
+help! olavrishti se gaadi ke sheeshe toot gaye,natural_disaster,medium,128
+"please help ,mujhe ghabrahat ho rahi hai aur pasina aa raha hai near the hostel",medical,medium,29
+madam smoke coming out of the lab room at the main gate,fire,medium,36
+"bhukamp aa raha hai, building hil rahi hai near he hostel",natural_disaster,high,107
+emergecy - ceiling cracks after the earthquake,natural_disaster,high,111
+"emergency - heavy flooding on campus, water entering ground floor jaldi aao",natural_disaster,high,108
+"please help, strong storm, tree fell near the hostel in the library",natural_disaster,medium,112
+"plase help, people trapped in the building with smoke everywhere please come fast",fire,high,33
+madam transformer blast near the gate with sparks and flames in the library,fire,high,46
+help! saans lene me dikkat ho rahi hai,medical,high,10
+"urgent: strong storm, tree fell near the hostel",natural_disaster,medium,112
+"sir gate ke paas accident ho gaya, bahut khoon aa raha hai right now",accident,high,59
+"please help, cyclone warning and strong winds shaking windows in the lab",natural_disaster,medium,113
+madam the ground is shaking and everyone is running otuside near the hostel,natural_disaster,high,118
+urgent: short circuit sparks in the classroom socket jaldi aao,fire,medium,37
+urgent: mujhe bukhar hai aur sar dard ho raha hai please come fast,medical,low,12
+sir student fell from the first floor balcony right now,accident,high,58
+room ke plug se jalne ki smell aa rahi hai,fire,low,43
+i feel feverish nd have a stomach ache jaldi aao,medical,low,13
+emergency - flood water rising in the hostel basement jaldi aao,natural_disaster,high,109
+"please help, bus accident near the college gate jaldi aao",accident,high,57
+madam thick fog and zero visibility on the campus road jaldi aao,natural_disaster,low,124
+sir i got rashes all over my body after taking a tablet jaldi aao,medical,medium,21
+"emergency - srtong storm, tree fell near the hostel near the hostel",natural_disaster,medium,112
+madam my friend fainted and is not responding,medical,high,1
+"sir heavy thunderstorm, students stuck in the lab in the lab",natural_disaster,medium,121
+"help! zameen hil rahi hai, sab bahar bhaago",natural_disaster,high,126
+"please help, heavy thunderstorm, students stuck in the lab jaldi aao",natural_disaster,medium,121
+"help! food poisoning, vomiting since morning at he main gate",medical,medium,14
+madam a iwre is burning in the corridor right now,fire,medium,48
+"please help, olavrishti se gaadi ke sheeshe toot gaye",natural_disaster,medium,128
+short circuit sparks in the classroom socket jaldi aao,fire,medium,37
+madam a student is having a seiure please come fast,medical,high,6
+"bhai gate ke paas accident ho gaya, bahut khoon aa raha hai",accident,high,59
+urgent: suspicious person roaming around the girls hostel at the maing ate,security,medium,87
+emergency - smell of gas and smoke on the third floor,fire,high,54
+"please help, river level rising near the campus afte rdam water release please come fast",natural_disaster,high,122
+"emergency - diabetic student feels shaky and sweaty, needs sugar",medical,medium,24
+madam i have a bad headche and feel dizzy in the library,medical,low,11
+emergency - bijli ke board me spark hua aur aag lg gayi jaldi aao,fire,high,35
+emergency - mera pair mud gaya football khelte hue in the lab,accident,low,67
+"please help, zameen hilrahi hai, sab bahar bhaago please come fast",natural_disaster,high,126
+emergency - flames spreading on the seocnd floor in the library,fire,high,31
+"emergency - meri tabiyat kharab hai, ulti aur chakkar aa rahe hain in the lab",medical,medium,26
+bhai myb ag was taken from the classroom at the main gate,security,low,100
+urgent: i have a bad headache and feel dizzy in te lab,medical,low,11
+help! mujhe buhar hai aur sar dard ho raha hai in the library,medical,low,12
+bhai roof leaking and water logging in the corridor due to rain in the library,natural_disaster,low,117
+bhai meri cycle chori ho gayi,security,low,105
+a ceiling tile fell on a student's head please come fast,accident,medium,72
+bhai koi bina permission ke hostel me ghus gaya,security,medium,91
+"period cramps are unbearable, need a doctor near the hostel",medical,low,23
+tez andhi se ped gir gaya in the library,natural_disaster,medium,114
+mujhe ghabrahat ho rahi hai aur pasina aa raha hai,medical,medium,29
+help! someone left the stove on and the pan is smoking in the lab,fire,low,51
+"heavy thundesrtorm, students stuck in the lab in the library",natural_disaster,medium,121
+urgent: mere dost ko chakkar aa raha hai aur vo behosh ho gaya ni the lab,medical,high,9
+emergency - fire alarm is ringing and i smell burning in the library,fire,medium,38
+bhai my phone got snatched near te bus stop in the library,security,medium,89
+emergency - mera pair mud gaya football khelte hue right now,accident,low,67
+a big branch fell on the road after the storm and blocked it at the main gate,natural_disaster,medium,120
+"please help, an unknown person is asking for my room number in the lab",security,medium,97
+"please help, fire extinguisher needed urgently in block c at the main gate",fire,high,47
+urgent: auto rickshaw overturned outside the univerity gate in the lab,accident,high,71
+"please help, the canteen stove caught fire and it is spreading",fire,high,44
+help! hailstorm broke windows in the lab in the lab,natural_disaster,medium,115
+sir a wire is burning in the corridor,fire,medium,48
+sir a fan fell and injured a student in the classroom right now,accident,medium,65
+help! she collapsed in the corridor please come fast,medical,high,4
+bhai bijli ke board me spark hua aur aag lag gayi,fire,high,35
+sr mere dost ko chakkar aa raha hai aur vo behosh ho gaya,medical,high,9
+"scooty se gir gaya, haath me chot lagi hai",accident,medium,64
+emergency - bijli ke board me spark hua aur aag lag gayi at the main gate,fire,high,35
+"please help, earthquake tremors felt in the building in the library",natural_disaster,high,106
+"please help, the canteen stove caught fire and it is spreading jaldi aao",fire,high,44
+bhai he hit his head and now he is confused right now,medical,high,20
+"i think i broke my arm, it looks bentplease come fast",medical,high,28
+"sir tooth pain since alst night, cant study jaldi aao",medical,low,25
+urgent: mera pair mud gaya football khelte hue at the main gate,accident,low,67
+"emergency - gate ke paas accident ho gaya, bahut khoon aa raha hai please come fast",accident,high,59
+bhai hostel me aag lag gay hai in the library,fire,high,32
+urgent: the ground is shaking and everyone is running outside in the lirbary,natural_disaster,high,118
+emergency - i slipped in the corridor and hurt my knee please come fast,accident,low,66
+"please help, someone is sending me threatening messages online in the lab",security,medium,101
+help! pet me bahut dard ho raha hai aur ult ho rahi hai,medical,medium,17
+"please help, hostel ke bahar ladai ho rhi hai",security,medium,88
+"please help, pet me bahut dard ho raha hai aur ulti ho rahi hai right now",medical,medium,17
+two unknown men entered the girls hostel and refuse to leave please come fast,security,high,94
+sir someone left the stove on nd the pan is smoking please come fast,fire,low,51
+"emergency - i think i broke my arm, it looks bent in the lab",medical,high,28
+"please help, suspicious person roaming around the girls hostel in the library",security,medium,87
+he hit his head and now h is confused please come fast,medical,high,20
+help! ez aandhi se ped gir gaya in the library,natural_disaster,medium,114
+ceiling cracks after the earthquake,natural_disaster,high,111
+the canteen stove caught fire and it is spreading in the library,fire,high,44
+"mada i think i broke my arm, it looks bent please come fast",medical,high,28
+"urgent: baarish se road par paani bhar gaya, jaana mushkil hai please come fast",natural_disaster,low,116
+bhai someone isrecording girls in the washroom with a phone,security,high,95
+"emergency - seedhiyon se phisal gayi, ghutne me dard hai jaldi aao",accident,low,76
+bhai smell of gas and smoke on the third floor,fire,high,54
+"sir heavy flooding on campus, water entering ground floor in the lab",natural_disaster,high,108
+sir gas cylinder leak smell in the mess in the lab,fire,high,34
+"please help, kitchen me tel me aag lag gayi jaldi aao",fire,high,52
+a big branch fell on the road after the storm and blocked ti please come fast,natural_disaster,medium,120
+help! a student is having a seizure jaldi aao,medical,high,6
+madam ek ladka mujhe roz peecha karta hai jaldi aao,security,high,103
+"madam lab accident, chemical spliled on his hand right now",accident,high,61
+"please help, flood water rising in the hostel basementi n the lab",natural_disaster,high,109
+"please help,  bike is burning in the parking jaldi aao",fire,medium,39
+help! the canteen stove caught fire and it is spreading,fire,high,44
+"pole se takra gaya biek, sar me chot hai near the hostel",accident,high,75
+"baarish se road par paani bhar gaya, jaana mushkil hai jaldi aao",natural_disaster,low,116
+i got rashes all over my body after taking a tablet,medical,medium,21
+"bhai caneten me jhagda ho gaya, chaaku nikala",security,high,104
+my laptop was stolen from the library right now,security,low,92
+madam mere dost ko chakkar aa raha ai aur vo behosh ho gaya,medical,high,9
+urgent: smoke coming out of the lab room near the hostel,fire,medium,36
+"please help, bhukamp aa raha hai, building hil rahi hai",natural_disaster,high,107
+someone is sending me threatening messages online,security,medium,101
+"please help, raat ko oki mere room ka darwaza khatkhata raha hai right now",security,high,102
+a big branch fell on the road after the storm and blocked it,natural_disaster,medium,120
+help! thick foga nd zero visibility on the campus road,natural_disaster,low,124
+emergency - my bag was taken from the classroom at the main gate,security,low,100
+si rdry grass behind the hostel caught fire,fire,medium,49
+burinng smell from the ac in my room please come fast,fire,low,42
+bhai someone left the stove on and the pan is smoking,fire,low,51
+madam saans lene me dikkat ho rah ihai right now,medical,high,10
+sir someone fell in the bathroom and is lying on the floor jaldi aao,accident,medium,73
+"urgent: i cut my finger while cooking, bleeding a little at the main gate",medical,low,16
+madam i can see black smoke coming from the chemistry lab,fire,medium,45
+urgent: room ke plug se jalne ki smell aa rahi hai,fire,low,43
+madam bus accident nea the college gate right now,accident,high,57
+bhai lab me test tube toot gaya aur haath kat gaya in the lab,accident,medium,77
+help! he i snot breathing please help at the main gate,medical,high,2
+"madam i cut my finger while cooking, bleeding a little near the hostel",medical,low,16
+sir my phone got snatched near the bus stop in the lab,security,medium,89
+road par truck ne ek student ko takkar maar di please come fast,accident,high,78
+transformer blast near the gate with sparks and flames,fire,high,46
+"two students colilded while running, one is crying in pain jaldi aao",accident,low,70
+people trapped in the building with smoke everywhere near the hostel,fire,high,33
+"sir mujhe koi pareshan kar raha hai, mujhe darr lag raha hai in the lab",security,high,84
+sir a cyclist was knocked down by a speeding car near the library,accident,high,69
+bhai generator se dhuan aur chingari nikal rahi hai please come fast,fire,medium,53
+help! bus accident near he college gate in the lab,accident,high,57
+emergency - meri cycle chori ho gayi at the main gate,security,low,105
+"please help, small fire in the dustbin near canteen",fire,low,41
+help! transformer blast near the gate wih sparks and flames,fire,high,46
+bhai fire alarm is ringing and i smell burning in the library,fire,medium,38
+sir gas cylinder leak smell in the mess near the hostel,fire,high,34
+bhai hei s not breathing please help,medical,high,2
+"please help, koi bina permission ke hostel me ghus gaya",security,medium,91
+sir he hit his head and now he is confused,medical,high,20
+bhai hostel ke bahar ladai ho rahi hai,security,medium,88
+bhai he is not breathing please help in the library,medical,high,2
+emergency - seniors are forcing freshers to do things against their will jaldi aao,security,high,96
+madam lab me test tube toot gaya aur haah kat gaya in the library,accident,medium,77
+"please help, a big branch fell on the road after the storm and blocked it please come fast",natural_disaster,medium,120
+"help! canteen me jhgada ho gaya, chaaku nikala right now",security,high,104
+"urgent: baarish se road par paani bhar gaya, jaana mushkil hai",natural_disaster,low,116
+"please help, zameen hil rahi hai, sab bahar bhaago in the lab",natural_disaster,high,126
+urgent: people trapped in the building with smoke everywhere right now,fire,high,33
+"please help, hostel me aag lag gayi hai in the library",fire,high,32
+madam drunk men are making trouble outside the campus please come fast,security,medium,99
+bhai tez baarish me hostel ki chhat tapak rahi hai please come fast,natural_disaster,low,125
+seniors are forcing freshers to do things against their will jaldi aao,security,high,96
+bhai olavrisht ise gaadi ke sheeshe toot gaye in the lab,natural_disaster,medium,128
+sir heavy bleeding from his head,medical,high,5
+"please help, room ke plug se jalne ki smell aa rahi hai jaldi aao",fire,low,43
+"sir food poisoning, vomiting since morning",medical,medium,14
+"help! canteen me jhagda ho gaya, chaaku nikala right now",security,high,104
+"tooth pain since last night, cant study in the library",medical,low,25
+my bag was taken from the classroom in the lab,security,low,100
+emergency - generator se dhuan aur chingari nikal rahi hai in the lab,fire,medium,53
+emergency - ragging happening in the hostel room,security,high,83
+auto rickshaw overturned outside the unversity gate,accident,high,71
+"please help, dost ko seene me dard ho raha hai, dil ka daura lag rahahai jaldi aao",medical,high,27
+"urgent: strong storm, tree fell near the hostel near the hostel",natural_disaster,medium,112
+sir tez aandhi se ped gir gaya at te main gate,natural_disaster,medium,114
+seniors are forcing freshers to do things against their iwll please come fast,security,high,96
+sir short circuit sparks in the classroom socket,fire,medium,37
+river level rising near the campus after dam water release in the library,natural_disaster,high,122
+madam my roommate has high fever and is shivering in the lab,medical,medium,19
+bhai flood water rising in the hostel basement,natural_disaster,high,109
+"urgent: seedhiyon se phisal gayi, ghutne me dard hai near the hostel",accident,low,76
+"bhai two students collided while running, one is crying in pain jaldi aao",accident,low,70
+bhai someone got hit by a vehicle on the road please come fast,accident,high,56
+madam small fire in the dustbin near canteen jaldi aao,fire,low,41
+urgent: there is a fire in the hostel kitcheni n the lab,fire,high,30
+the ground is shaking and everyone is running outside please come fst,natural_disaster,high,118
+"help! allergic reaction, face i swelling in the lab",medical,high,8
+bhai a cyclist was knocked down by a speeding car near the library,accident,high,69
+urgent: heavy bleeding from his head right now,medical,high,5
+ugent: fire alarm is ringing and i smell burning in the lab,fire,medium,38
+mere dost ko chakkar aa raha hai aur vo behosh ho gaya near theh ostel,medical,high,9
+emegency - there is a fire in the hostel kitchen in the lab,fire,high,30
+help! meri cycle chori ho gayi in the lab,security,low,105
+bhai earthquake tremors felt in the building right now,natural_disaster,high,106
+emergency - heavy bleeding from his ead right now,medical,high,5
+i am being stalked and need help immediately near the hostel,security,high,85
+urgent: playground me khelte hue ladk ka pair toot gaya,accident,medium,79
+madam i got rashes all over my body after taking a tablet near the hostel,medical,medium,21
+"madam lab accident, chemical spilled on his hand right now",accident,high,61
+"urgent: seedhiyon se phisal gayi, ghutne me dard hai in the library",accident,low,76
+urgent: someone is recording girls in the washroom with a phone near the hostel,security,high,95
+"please help, saans lene me dikkat ho rahi hai at the maingate",medical,high,10
+"bhai diabetic student feels shaky and sweaty, needs sugar in the lab",medical,medium,24
+"please help, lab me tet tube toot gaya aur haath kat gaya",accident,medium,77
+mere dost ko chakkar aa raha hai aur vo behosh ho gaya in the lab,medical,high,9
+urgent: someone got hit by a vehicle on the road,accident,high,56
+road par truck ne ek student ko takkr maar di please come fast,accident,high,78
+sir smoeone fell in the bathroom and is lying on the floor right now,accident,medium,73
+"lab accident, chemical spilled on his hand aldi aao",accident,high,61
+river level rising near the campus after dam water release,natural_disaster,high,122
+"please help, mera pair mud gaya footall khelte hue in the lab",accident,low,67
+"please help, mujhe ghabrahat ho rahi hai aur pasina aa raha hai right now",medical,medium,29
+"sir food poisoning, vomiting since morning near thehostel",medical,medium,14
+sir koi bina permission ke hostel me ghus gaya please come fast,security,medium,91
+sir two cars collided in the campus parking jaldi aao,accident,medium,63
+madam seniors are forcing freshers to do things against their will right now,security,high,96
+urgent: a wire is burning in the corridor near the hostel,fire,medium,48
+emergency - mera pair mud gaya football khelte hue right onw,accident,low,67
+"please help, i can see black smoke coming from the chemistry lab",fire,medium,45
+sir he hit his head and now he is confused at the main gate,medical,high,20
+emergency - gas cylinder leak smell in the mess please come fast,fire,high,34
+urgent: my ankle is swollen fater a fall and it hurts,medical,medium,15
+sir a boy burnt his hand with hot oil in the mess in the library,accident,medium,74
+help! burning smell from the ac in my room at the main gate,fire,low,42
+"please help, fire extinguisher needed urgently in block c a tthe main gate",fire,high,47
+sir transformer blast near the gate with sparks and flames at the main gate,fire,high,46
+someone left the stove on and the pan is smoking at the mai ngate,fire,low,51
+emergency - tez baarish me hostel ki chhat tapak rahi hai right now,natural_disaster,low,125
+emergency - someon egot hit by a vehicle on the road near the hostel,accident,high,56
+"please help, ceiling cracks after the earthquake please come fast",natural_disaster,high,111
+"heavy flooding on campus, water entering ground floor in the lab",natural_disaster,high,108
+madam water has entered the library after continuous rain jaldi aao,natural_disaster,medium,119
+urgent: water ha sentered the library after continuous rain,natural_disaster,medium,119
+"please help, heavy thunderstorm, sudents stuck in the lab in the lab",natural_disaster,medium,121
+electric sock from the switchboard in lab,accident,high,60
+urgent: a student is having a seizurenear the hostel,medical,high,6
+"help! lab accident, chemical spilled on his hand",accident,high,61
+sir drunk men are making trouble outsdie the campus jaldi aao,security,medium,99
+help! bike chori ho gayi parking se,security,low,93
+emergency - my friend is not waking up,medical,high,22
+"bhai lab accident, chemical spilled on his hand",accident,high,61
+sir ek ladka mujhe roz peecha karta hai,security,high,103
+"meri tabiyat kharab hai, ulti au rchakkar aa rahe hain in the library",medical,medium,26
+bhai a student is havinga seizure in the lab,medical,high,6
+hailstorm broke windows in the lab in the library,natural_disaster,medium,115
+emergency - koi bina permission ke ostel me ghus gaya in the lab,security,medium,91
+"bhai bhukmp aa raha hai, building hil rahi hai at the main gate",natural_disaster,high,107
+bhai someone fell in the bathroom and is lying on the floor in the lab,accident,medium,73
+urgent: the cctv camera near the gate is broken in the lab,security,low,98
+help! student fell from the first floor balcony near the hostel,accident,high,58
+help! lab se dhuan nikal raha hai right now,fire,medium,40
+a student fel lfrom the stairs and cannot stand in the lab,accident,medium,62
+urgent: lightning struck near the playground near the hostel,natural_disaster,high,110
+sir flood water rising in the hostel basement near the hostel,natural_disaster,high,109
+bhai room ke plug se jalne ki smell aa rahi hai,fire,low,43
+"heavy thunderstorm, students stuck in the lab please come fast",natural_disaster,medium,121
+"madam mujhe koi pareshan kar raha hai, mujhe darr lag raha hai at the main gate",security,high,84
+"urgent: i cut my finger whie cooking, bleeding a little right now",medical,low,16
+madam my ankle is swollen after a fall and it hurts,medical,medium,15
+madam suspiciousp erson roaming around the girls hostel right now,security,medium,87
+bhai hostel ke bahar ladai ho rahi hai in the library,security,medium,88
+sir ia m being stalked and need help immediately,security,high,85
+"emergency - canteen me jhagda ho gaya, chaaku nikala right now",security,high,104
+"urgent: period cramps are unbearable, ned a doctor jaldi aao",medical,low,23
+a student fell from the stairs and cannot stand jald iaao,accident,medium,62
+bhai pet me bahut dard ho raha hai aur ulti ho rahi hai,medical,medium,17
+help! olavrishti se gaadi ke sheeshe toot gaye jaldi aao,natural_disaster,medium,128
+madam flood water rising in the hostel basement please come fast,natural_disaster,high,109
+madam hostel ke bahar ladai ho rahi hai near the hostel,security,medium,88
+urgent: two unknown men entered the girls hostel and refuse to leave right now,security,high,94
+he is not breathing please help,medical,high,2
+urgent: a cyclist was knocked down by a speeding car near the library near the hostel,accident,high,69
+road par truck ne ek student ko takkar maar di near the hostel,accident,high,78
+emergency - burning smell from the ac in my room in the library,fire,low,42
+madam dry grass behind the hostel caught fire near the hostel,fire,medium,49
+urgent: ragging happening in the hostel room,security,high,83
+madam electric shoc kfrom the switchboard in lab at the main gate,accident,high,60
+emergency - agging happening in the hostel room,security,high,83
+"gate ke paas accident ho gaya, bahut khoon aa raha hai near the hostel",accident,high,59
+sir roof leaking and water logging in the corridor dueto rain near the hostel,natural_disaster,low,117
+madam saans lene me dikkat ho rahi hai jaldi aao,medical,high,10
+bhai a wire is burning in the corridor right now,fire,medium,48
+emergency - a bike is burning in the parking in the library,fire,medium,39
+emergency - my phone got snatched near the bus stop jaldi aao,security,medium,89
+"please help, my friend is not waking up please come fast",medical,high,22
+urgent: two unknown men entered the girls hostel and refuse to leave please come fast,security,high,94
+bhai flames sprading on the second floor in the library,fire,high,31
+urgent: islipped in the corridor and hurt my knee in the lab,accident,low,66
+"please help, raat ko koi mere room ka darwaza khatkhata raha hai in the lab",security,high,102
+"help! heavy flooding on campus, water enteing ground floor near the hostel",natural_disaster,high,108
+bhai scooty se gir gaya haath me chot lagi hai in the lab,accident,medium,64
+sir i am having an asthma attack and have no inhaler near the hostel,medical,high,7
+"please help, my roommate has high fever and is shivering in the library",medical,medium,19
+hlep! mujhe ghabrahat ho rahi hai aur pasina aa raha hai right now,medical,medium,29
+hostel me aag lag gayi hai right now,fire,high,32
+"bhai meri tabiyat kharab hai, ulti aur chakkar aa rahe hain in the library",medical,medium,26
+"bhai meri tabiyat kharab hai, ulti aur chakkar aa rahe hain in the lab",medical,medium,26
+madam minor scratch after falling from my cycle please come fast,accident,low,68
+a girl in my class is vomitingand looks very weak in the lab,medical,medium,18
+"please help, my friend is not waking up",medical,high,22
+bike chori ho gayi parking se right now,security,low,93
+emergecy - raat ko koi mere room ka darwaza khatkhata raha hai jaldi aao,security,high,102
+emergency - the ground is shaking and everyone is running outside near the hostel,natural_disaster,high,118
+help! road par truck ne ek student ko takkar maar di at the main gate,accident,high,78
+there is a fight between students in the ground please come fast,security,medium,86
+"help! seedhiyon se phisal gayi, ghutne me dard hai in the lab",accident,low,76
+urgent: a student is having a seizure right now,medical,high,6
+"madam bhukamp aa raha hai, building hil rahi hai in the library",natural_disaster,high,107
+emergency - electric shock from the switchboard in lab in the lab,accident,high,60
+mujhe bukar hai aur sar dard ho raha hai,medical,low,12
+emergency - i can see black smoke coming from the chemistry lab in the lab,fire,medium,45
+a ceiling tile fel on a student's head at the main gate,accident,medium,72
+emergency - smoke coming out of the lab room,fire,medium,36
+bhai there is a fight between students in the ground jald iaao,security,medium,86
+emergency - a ceiling tile fell on a student's head in the library,accident,medium,72
+"help !zameen hil rahi hai, sab bahar bhaago in the lab",natural_disaster,high,126
+urgent: a man with a weapon is on campus jaldi aao,security,high,80
+madam two cars collided in the campus parking in the library,accident,medium,63
+sir playground me khelte hue ladke ka pair toot aya in the lab,accident,medium,79
+help! cyclone warning and strong winds shaking windows at the main gate,natural_disaster,medium,113
+urgent: mere dost ko chakkar aa raha hai aur vo behosh ho gaya near the hostel,medical,high,9
+ragging happening in the hostel room near the hostel,security,high,83
+gas cylinder leak smell in the mess in the library,fire,high,34
+hostel ke bahar ladai ho rahi hai in the lab,security,medium,88
+sir olavrishti se gaai ke sheeshe toot gaye,natural_disaster,medium,128
+emergency - someone is following me near the hostel at night jaldi aao,security,high,81
+kitchen me tel me aag lag gayi right now,fire,high,52
+my bag was taken from the classroom at the main gate,security,low,100
+bhai i feel feverish and have a stomach ache right now,medical,low,13
+"urgent: baraish se road par paani bhar gaya, jaana mushkil hai right now",natural_disaster,low,116
+bhai my bag was taken from the classroom please come fast,security,low,100
+sir a big branch fell on the road atfer the storm and blocked it jaldi aao,natural_disaster,medium,120
+"period cramps are unbearable, need a doctor please come fast",medical,low,23
+madam saans lene me dikkat ho rahi hai,medical,high,10
+"please help, i am being stalked and need help immediately near the hostel",security,high,85
+sir small fire in the dustbin near canteen right now,fire,low,41
+urgent: gas cylinder leak smell in the mess at the ain gate,fire,high,34
+"please help, strong storm, tree fell near the hostel right now",natural_disaster,medium,112
+"bhai two students collided while running, one iscrying in pain at the main gate",accident,low,70
+help! i slipped in the corridor and hurt my knee jaldi aao,accident,low,66
+lab se dhuan nikal raha haii n the library,fire,medium,40
+bhai i am having an asthma attack and have no inhaler in the lab,medical,high,7
+sir mera pair mud gay football khelte hue,accident,low,67
+"i think i broke my arm, it looks bent near the hotsel",medical,high,28
+madam someone got hit by a vehicle on the road,accident,high,56
+emergency - student fell from the first floor balcony in the lab,accident,high,58
+sir someone got hit by a vehicle on the road right now,accident,high,56
+"i think i broke my arm, it looks bent at the main gate",medical,high,28
+madam student fell from the first floor balcony please come fast,accident,high,58
+a stranger is harassing girls near the gate right now,security,high,82
+seniors are forcing freshers to do things against their will,security,high,96
+"please help, food poisoning, vomiting since morning near the hostel",medical,medium,14
+bhai water has entered the library after continuous rain in the lab,natural_disaster,medium,119
+madam water has entered the library after continuous rain at the main gate,natural_disaster,medium,119
+madam a boy burnt his hand with hot oil in the mess right now,accident,medium,74
+emergency - auto rickshaw overturned outside the university gate right now,accident,high,71
+electric shock from the switchobard in lab,accident,high,60
+sir transformer blast near the gate with sparks and flames,fire,high,46
+a girl in my class is vomiting and looks very weak in the lab,medical,medium,18
+"please help, auto rickshaw overturned outside the university gate near the hostel",accident,high,71
+i feel feverish and have a stomach ache,medical,low,13
+madam the canteen stove caught fire and it is spreading near the hostel,fire,high,44
+bai seniors are forcing freshers to do things against their will jaldi aao,security,high,96
+madam thick fog and zero visibility on the campus road,natural_disaster,low,124
+sir flaes spreading on the second floor jaldi aao,fire,high,31
+she collapsed in the corridor,medical,high,4
+urgent: my ankle is swollen after a fall and it hurts please come fast,medical,medium,15
+sir there is a fire in the hostel kitchen in the library,fire,high,30
+madam a ceiling tile fell on a student's head in the library,accident,medium,72
+bhai someone is threatening me on call in the library,security,medium,90
+bhai two unknown men entered the girls hostel and refuse to leave,security,high,94
+sir drunk men are maikng trouble outside the campus in the lab,security,medium,99
+"please help, tez baarish me hosetl ki chhat tapak rahi hai please come fast",natural_disaster,low,125
+"please help, i feel feverish and have a stomach ache please come fast",medical,low,13
+"help! scooty se gir gaya, haath me chotlagi hai",accident,medium,64
+my friend faintd and is not responding,medical,high,1
+"madam bike accident near the main gate, rider is injured right now",accident,high,55
+"allergic reaction, face is swellingn ear the hostel",medical,high,8
+"please help, period cramps are unbearable, need a doctor",medical,low,23
+bhai a boy burnt his hand with hot oil in the mess jaldi aao,accident,medium,74
+"please help, a stranger is harassing girls near the gate i the lab",security,high,82
+urgent: there is a fight between students in the ground near the hostel,security,medium,86
+"bhai gate ke paas accident ho gaya, bhut khoon aa raha hai please come fast",accident,high,59
+"allergic reaction, face is swellnig right now",medical,high,8
+si rmy ankle is swollen after a fall and it hurts right now,medical,medium,15
+sir smoke coming out of the lab room,fire,medium,36
+i can see black soke coming from the chemistry lab please come fast,fire,medium,45
+emergency - burning smell from the ac in my room at the main gate,fire,low,42
+urgent: drunk men are making trouble outside the campus,security,medium,99
+bhai lab se dhuan nikal raha hai right now,fire,medium,40
+"please help, someone is following me near the hostel at night please come fast",security,high,81
+flood water rising in the hostle basement,natural_disaster,high,109
+"urgent: heavy flooding on campus, water entering ground floor jaldi aao",natural_disaster,high,108
+raggig happening in the hostel room at the main gate,security,high,83
+"bhai canteen me jhagda ho gaya, chaaku nikala in the lab",security,high,104
+emergency - a student fell from the stairs and cannot stand please come fast,accident,medium,62
+sir mujhe ghabrahat ho rahi hai aur pasina aa raha hai in the library,medical,medium,29
+emergency - flames spreading on the second floor,fire,high,31
+emergency - charger blast in my room and the mattress is burning right now,fire,high,50
+sir nadi ka pani campsu ki taraf badh raha hai,natural_disaster,high,127
+"allergic reaction, fac is swelling",medical,high,8
+"bhai diabetic student feels shaky and sweaty, needs sugar",medical,medium,24
+emergency - i slipped in the corridor and hurt my knee near the hostel,accident,low,66
+koi bina permission ke hostel me ghus gaya near the hostel,security,medium,91
+"please help, tooth pain since last night, cant study in the lab",medical,low,25
+"please help, the cctv camea near the gate is broken in the lab",security,low,98
+sir a fan fell and injured a student in the classroom jaldi aao,accident,medium,65
+madam heavy bleeding from his head in the library,medical,high,5
+emergency - earthquake tremors felt in the building right now,natural_disaster,high,106
+bhai someone fell in the bathroom and is lying on the floor right now,accident,medium,73
+urgent: my laptop was stolne from the library jaldi aao,security,low,92
+emergency - my phone got snatched near the bus stop,security,medium,89
+bhai someone left the stove on and the pan is smoking at the main gate,fire,low,51
+"please help, food poisoning, vomiting since morning",medical,medium,14
+madam a stranger is harassing girls near the gate near the hostel,security,high,82
+mujhe bkhar hai aur sar dard ho raha hai please come fast,medical,low,12
+sir lightning struck near the playground near the hostel,natural_disaster,high,110
+"urgent: tooth pain since last night, cant study right now",medical,low,25
+help! nadi ka pani campus ki taraf badh raha hai at the main gate,natural_disaster,high,127
+"please help, meri tabiyat kharab hai, ulti aur chakkar aa rahe hain in the lab",medical,medium,26
+sir kitchen me tel m aag lag gayi right now,fire,high,52
+help! tez baarish me hostel ki chhat tapa rahi hai please come fast,natural_disaster,low,125
+"sir i cut my finger while cooking, bleeding a little jaldi aao",medical,low,16
+a bike is burning in the parking in the library,fire,medium,39
+emergency - a wire is burning in the corridor near the hostel,fire,medium,48
+someone is having chest pain and sweating a lot near the hostel,medical,high,3
+help! the canteen stove caught fire and it is spreading please come fast,fire,high,44
+madam heavy bleeding from his head,medical,high,5
+sir a big branch fell on the road after the storm and blocked it,natural_disaster,medium,120
+urgent: i have a bad headache and fele dizzy right now,medical,low,11
+urgent: minor scratch after falling from my cycle please com fast,accident,low,68
+"urgent: tooth pain since last night, cant study jaldi aao",medical,low,25
+madam gas cylinder leak smell in the mess please come fast,fire,high,34
+madam ek ladka mujhe roz peecha karta hai please come fast,security,high,103
+sir tez aandhi se ped gir gaya jaldi aao,natural_disaster,medium,114
+"please help, the cct vcamera near the gate is broken in the lab",security,low,98
+sir suspicious person roamign around the girls hostel right now,security,medium,87
+"please help, the ground is shaking and everyone is running outside in the lab",natural_disaster,high,118
+a ceiling tile fell on a student's head at the main gate,accident,medium,72
+emergency - thick fog and zero visibility on the campus road jaldi aao,natural_disaster,low,124
+"please help, my ankle is swollen after a fall and it hurst in the library",medical,medium,15
+help! bus acident near the college gate at the main gate,accident,high,57
+a stranger is harassing girls near the gate,security,high,82
+urgent: generator se dhuan aur chingari nikal rahi hai,fire,medium,53
+emergency - bus accident near the college gate near the hostel,accident,high,57
+a boy burnt his hand with hot oil in the mss in the lab,accident,medium,74
+urgent: a student fell from the stairs and cannot stand jaldi aao,accident,medium,62
+"please help, tooth pain since last night, cant study jaldi aao",medical,low,25
+sir two cars collided in the campus parking,accident,medium,63
+help! lightning sturck near the playground in the library,natural_disaster,high,110
+bhai i slipped in the corridor and hurt my knee jaldi aao,accident,low,66
+madam studetn fell from the first floor balcony,accident,high,58
+"allrgic reaction, face is swelling near the hostel",medical,high,8

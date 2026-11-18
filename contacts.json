@@ -1,0 +1,15 @@
+[
+  {"label": "National Emergency Number (police, fire, ambulance)", "number": "112", "categories": "all", "is_national": 1},
+  {"label": "Ambulance", "number": "108", "categories": "medical,accident,natural_disaster", "is_national": 1},
+  {"label": "Police", "number": "100", "categories": "security,accident", "is_national": 1},
+  {"label": "Fire Brigade", "number": "101", "categories": "fire", "is_national": 1},
+  {"label": "Women Helpline", "number": "1091", "categories": "security", "is_national": 1},
+  {"label": "Disaster Management Helpline", "number": "1078", "categories": "natural_disaster", "is_national": 1},
+  {"label": "Tele-MANAS mental health helpline (emotional distress)", "number": "14416", "categories": "medical", "is_national": 1},
+
+  {"label": "Campus Security Control Room", "number": "REPLACE-ME", "categories": "all", "is_national": 0},
+  {"label": "Campus Medical Room", "number": "REPLACE-ME", "categories": "medical,accident", "is_national": 0},
+  {"label": "Hostel Warden", "number": "REPLACE-ME", "categories": "security,fire,medical", "is_national": 0},
+  {"label": "Proctor / Student Welfare", "number": "REPLACE-ME", "categories": "security", "is_national": 0},
+  {"label": "Campus Fire Safety Officer", "number": "REPLACE-ME", "categories": "fire", "is_national": 0}
+]

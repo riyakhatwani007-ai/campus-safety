@@ -1,0 +1,94 @@
+{
+  "disclaimer": "General guidance only. It does not replace trained responders. In any serious emergency call 112 first.",
+  "verified": false,
+  "sources": ["Indian Red Cross Society / IFRC First Aid Guidelines", "St John Ambulance first aid guides", "NDMA India - Do's and Don'ts", "AHA / Red Cross CPR guidance"],
+  "categories": {
+    "medical": {"title": "Medical emergency", "steps": [
+      "Stay calm. Make sure the area is safe for you and the patient.",
+      "Call 112 (or 108 for an ambulance) if the person is unresponsive, struggling to breathe, bleeding heavily or in severe pain.",
+      "Ask a nearby person to call campus security / the medical room while you stay with the patient.",
+      "Do not give food, drink or medicine unless the person is fully awake and it is their own prescribed medicine.",
+      "Keep the person comfortable and still. Note symptoms and the time they started to tell the responders."]},
+    "fire": {"title": "Fire", "steps": [
+      "Raise the alarm: shout 'Fire!' and activate the nearest fire alarm.",
+      "Leave the building immediately by the nearest safe exit. Do not use lifts. Do not stop to collect belongings.",
+      "Stay low if there is smoke: cleaner air is near the floor. Cover your nose and mouth with a cloth.",
+      "Before opening a door, feel it with the back of your hand. If it is hot, do not open it. Use another exit.",
+      "Call 101 (fire) or 112 once you are safely outside. Move away from the building and do not go back in.",
+      "Only use an extinguisher on a very small fire, if you are trained, and with your back to an exit.",
+      "If your clothes catch fire: stop, drop to the ground, cover your face and roll."]},
+    "accident": {"title": "Accident / injury", "steps": [
+      "Check for danger (traffic, electricity, chemicals) before going close. Do not become a second casualty.",
+      "Call 112 or 108 for any serious injury. Send someone to the gate to guide the ambulance.",
+      "Do not move an injured person unless there is immediate danger. They may have a neck or back injury.",
+      "Control bleeding by pressing firmly on the wound with a clean cloth.",
+      "Keep the person warm and talking. Do not give food or drink.",
+      "For electric shock: switch off the power at the source first. Never touch the person while they are still in contact."]},
+    "security": {"title": "Security threat / harassment", "steps": [
+      "Move to a safe, well-lit place with other people (a hostel reception, guard room or classroom).",
+      "Call campus security and 112 (police 100, women helpline 1091). Say exactly where you are.",
+      "If someone is following you, do not go to your room alone. Head to a crowded place or the security post.",
+      "Do not confront an armed or aggressive person. Get away, lock or block doors, and stay quiet if hiding.",
+      "Keep your phone location sharing on. Note descriptions, times and any evidence to report later."]},
+    "natural_disaster": {"title": "Natural disaster", "steps": [
+      "Earthquake: DROP to your hands and knees, take COVER under a sturdy desk, HOLD ON. Stay away from windows. Do not run outside during shaking.",
+      "After shaking stops, exit calmly using stairs (no lifts) and gather in an open area away from buildings, poles and trees.",
+      "Flood: move to higher ground at once. Do not walk or drive through flowing water. Stay away from electrical equipment.",
+      "Storm or lightning: stay indoors away from windows. Avoid open grounds, trees and metal objects.",
+      "Follow instructions from campus authorities and call the disaster helpline 1078 or 112 for rescue."]},
+    "unknown": {"title": "Emergency (type not clear)", "steps": [
+      "Move to a safe place and stay calm.",
+      "Call 112 if anyone is in danger. It connects to police, fire and ambulance.",
+      "Tell campus security exactly where you are. Your SOS has already been sent with your location.",
+      "Use the buttons below to switch to the closest emergency type for guidance."]}
+  },
+  "subtopics": {
+    "unresponsive": {"title": "Person is unresponsive or not breathing", "steps": [
+      "Tap their shoulders and shout. If there is no response, call 112 or have someone call and bring an AED if available.",
+      "Check for normal breathing for no more than 10 seconds.",
+      "If not breathing normally, start CPR: push hard and fast in the centre of the chest, about 100-120 pushes per minute, about 5 cm deep.",
+      "If trained, give 2 rescue breaths after every 30 pushes. If not, keep doing chest pushes only.",
+      "Continue until help arrives, an AED is ready, or the person starts breathing."]},
+    "bleeding": {"title": "Severe bleeding", "steps": [
+      "Press firmly and directly on the wound with a clean cloth. Keep pressing.",
+      "If blood soaks through, add more cloth on top. Do not remove the first layer.",
+      "If it is safe and no fracture is suspected, raise the injured limb.",
+      "Call 112 if bleeding is heavy or does not slow after 10 minutes of pressure."]},
+    "choking": {"title": "Choking", "steps": [
+      "Ask 'Are you choking?' If they can cough, encourage them to keep coughing.",
+      "If they cannot cough, speak or breathe: lean them forward and give up to 5 firm back blows between the shoulder blades.",
+      "If still blocked, give up to 5 abdominal thrusts (stand behind, fist above the navel, pull inwards and upwards).",
+      "Alternate 5 back blows and 5 thrusts. Call 112. If they become unresponsive, start CPR."]},
+    "breathing_difficulty": {"title": "Difficulty breathing / asthma", "steps": [
+      "Help the person sit upright and stay calm. Loosen tight clothing.",
+      "If they have their own reliever inhaler, help them use it as prescribed.",
+      "Open windows for fresh air. Do not lay them flat.",
+      "Call 112 if breathing is severe, lips turn blue, or they cannot speak full sentences."]},
+    "seizure": {"title": "Seizure", "steps": [
+      "Clear the area of hard or sharp objects. Cushion their head.",
+      "Do not hold them down. Do not put anything in their mouth.",
+      "Note the time. Loosen tight clothing around the neck.",
+      "When shaking stops, gently turn them onto their side. Stay with them.",
+      "Call 112 if it lasts more than 5 minutes, repeats, or they are injured or not waking up."]},
+    "allergic_reaction": {"title": "Severe allergic reaction", "steps": [
+      "Call 112 immediately if there is swelling of the face or throat, breathing trouble or dizziness.",
+      "If the person has an adrenaline (epinephrine) auto-injector, help them use it right away.",
+      "Lay them flat with legs raised unless they are struggling to breathe (then sit upright).",
+      "Stay with them until help arrives."]},
+    "chest_pain": {"title": "Chest pain / possible heart attack", "steps": [
+      "Call 112 immediately. Do not wait to see if it passes.",
+      "Help the person sit down and rest in a comfortable position. Keep them calm.",
+      "Loosen tight clothing. Do not let them walk around or exert themselves.",
+      "Be ready to start CPR if they become unresponsive and stop breathing normally."]},
+    "burn": {"title": "Burns", "steps": [
+      "Cool the burn under cool running water for 20 minutes.",
+      "Remove rings, watches or tight items near the burn before swelling starts.",
+      "Cover loosely with a clean non-fluffy material or cling film. Do not use ice, butter or toothpaste.",
+      "Call 112 for large burns, burns on the face, hands or genitals, or electrical and chemical burns."]},
+    "mental_health": {"title": "Someone may be thinking of harming themselves", "steps": [
+      "Stay with the person. Do not leave them alone. Listen calmly without judging.",
+      "If there is immediate danger, call 112. Remove access to anything they could use to hurt themselves, if it is safe to do so.",
+      "Call Tele-MANAS (14416), a free mental health helpline in India, and contact the campus counsellor or warden.",
+      "Stay until trained help arrives."]}
+  }
+}
